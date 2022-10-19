@@ -26,4 +26,4 @@
 <li> Disjoint Sets</li>
 <li> Self-Balancing Trees </li>
 <li> Segment Trees </li>
-<li> Tries</li>
+<li> Tries etc </li>
